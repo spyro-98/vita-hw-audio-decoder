@@ -16,4 +16,4 @@ This repository also owns the header-only `VitaAudioDecoder::Interface` contract
 
 Host regressions live in VitaMediaDeck `tests/multiaudio` and `tests/audio_volume`. Vita firmware calls are substituted on the host; physical audio output and A/V performance require console testing.
 
-GPL-3.0-only. See [LICENSE](LICENSE). Development sources are published on the `main` branch; VitaMediaDeck pins an exact component commit in its dependency lock.
+GPL-3.0-only. See [LICENSE](LICENSE). Development sources are published on the `master` branch; VitaMediaDeck pins an exact component commit in its dependency lock.
