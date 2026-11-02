@@ -1,0 +1,3 @@
+# Extracted beta sources; no invented remote revision.
+source.vita-hw-decoder.base.commit=998dcd9e66ba2d3a0cb713c0a47125d510458ac5
+system-audio.api=VitaSDK-sceAudiodec
